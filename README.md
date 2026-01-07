@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey there 👋
 # 💫 About Me:
 I am Mangal Singh<br>🔭 I’m currently working on PyTorch<br>🤝 I’m looking for someone to collaborate with me on Projects<br>🌱 I’m currently learning Flask <br>💬 Ask me about<br>⚡ Fun fact
 
