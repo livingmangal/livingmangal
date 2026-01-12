@@ -1,4 +1,22 @@
-## Hey there 👋
+<!-- Animated top divider -->
+<img 
+  src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" 
+  alt="flow divider" 
+  width="100%" 
+  height="6"
+/>
+
+<!-- Main animated banner -->
+![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Mangal%20Singh&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Crafting%20ideas%20into%20code%20•%20Building%20with%20purpose&descSize=20&descAlignY=60)
+
+<!-- Glow divider -->
+<img 
+  src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" 
+  alt="glow divider" 
+  width="100%" 
+  height="5"
+/>
+
 # 💫 About Me:
 I am Mangal Singh<br>🔭 I’m currently working on PyTorch<br>🤝 I’m looking for someone to collaborate with me on Projects<br>🌱 I’m currently learning Flask <br>💬 Ask me about<br>⚡ Fun fact
 
