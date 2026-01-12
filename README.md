@@ -34,6 +34,26 @@ I am Mangal Singh<br>🔭 I’m currently working on PyTorch<br>🤝 I’m looki
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=livingmangal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<!-- Soft glow divider -->
+<img 
+  src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" 
+  alt="closing glow" 
+  width="100%" 
+  height="5"
+/>
+
+<!-- Thank You banner -->
+![Thank You](https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:203a43,100:0f2027&height=220&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=If%20you%20liked%20my%20work%2C%20feel%20free%20to%20connect%20or%20leave%20a%20star%20⭐&descSize=18&descAlignY=65)
+
+<!-- Final animated divider -->
+<img 
+  src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" 
+  alt="end divider" 
+  width="100%" 
+  height="6"
+/>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
