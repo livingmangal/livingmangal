@@ -1,21 +1,8 @@
-<!-- Animated top divider -->
-<img 
-  src="https://media.giphy.com/media/26BRrSvJUa0crqw4E/giphy.gif" 
-  alt="flow divider" 
-  width="100%" 
-  height="6"
-/>
+
 
 <!-- Main animated banner -->
 ![Banner](https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Mangal%20Singh&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Crafting%20ideas%20into%20code%20•%20Building%20with%20purpose&descSize=20&descAlignY=60)
 
-<!-- Glow divider -->
-<img 
-  src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" 
-  alt="glow divider" 
-  width="100%" 
-  height="5"
-/>
 
 # 💫 About Me:
 I am Mangal Singh<br>🔭 I’m currently working on PyTorch<br>🤝 I’m looking for someone to collaborate with me on Projects<br>🌱 I’m currently learning Flask <br>💬 Ask me about<br>⚡ Fun fact
@@ -60,20 +47,8 @@ I am Mangal Singh<br>🔭 I’m currently working on PyTorch<br>🤝 I’m looki
 
 
 <!-- Soft glow divider -->
-<img 
-  src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" 
-  alt="closing glow" 
-  width="100%" 
-  height="5"
-/>
 
 <!-- Thank You banner -->
 ![Thank You](https://capsule-render.vercel.app/api?type=venom&color=0:2c5364,50:203a43,100:0f2027&height=220&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=If%20you%20liked%20my%20work%2C%20feel%20free%20to%20connect%20or%20leave%20a%20star%20⭐&descSize=18&descAlignY=65)
 
 <!-- Final animated divider -->
-<img 
-  src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" 
-  alt="end divider" 
-  width="100%" 
-  height="6"
-/>
