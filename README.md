@@ -1,5 +1,6 @@
 <!-- Animated Header Banner -->
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Mangal%20Singh&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Open%20Source%20Enthusiast&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=gradient&customColorList=6,11,20&text=Mangal%20Singh&fontSize=82&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Open%20Source%20Contributor&descAlignY=62&descSize=18&animation=fadeIn)
+
 
 <!-- Typing SVG Animation -->
 <div align="center">
