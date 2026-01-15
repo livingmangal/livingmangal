@@ -23,7 +23,7 @@ class MangalSingh:
     def __init__(self):
         self.name = "Mangal Singh"
         self.role = "AI/ML Engineer & Full Stack Developer"
-        self.location = "Indore, India 🇮🇳"
+        self.location = "Bhopal, India 🇮🇳"
         self.education = "Computer Science Student"
         
     def current_work(self):
