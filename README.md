@@ -248,5 +248,5 @@ I'm always interested in working on innovative projects, especially those involv
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let's%20connect%20and%20build%20something%20amazing%20together%20⭐&descSize=18&descAlignY=85)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Made+with+%E2%9D%A4%EF%B8%8F+and+lots+of+%E2%98%95;If+you+like+my+work%2C+give+it+a+%E2%AD%90;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Made+with+coffe+and+%E2%98%95;If+you+like+my+work%2C+give+it+a+%E2%AD%90;Happy+Coding!+%F0%9F%9A%80" alt="Footer Typing SVG" />
 </div>
