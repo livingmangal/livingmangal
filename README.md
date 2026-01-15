@@ -128,33 +128,17 @@ me = MangalSingh()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livingmangal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingmangal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=livingmangal&theme=dark&hide_border=true)
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=livingmangal&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
 
-<br/>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=livingmangal&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
 
 <br/>
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=livingmangal&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
 
 <br/>
 
@@ -177,8 +161,21 @@ me = MangalSingh()
 ## 🔝 Top Contributed Repositories
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=livingmangal&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos"/>
+
+<!-- Fallback (always visible) -->
+<img 
+  src="https://img.shields.io/badge/Top%20Repos-See%20Pinned%20Repos-blue?style=for-the-badge"
+  alt="Pinned Repositories"
+/>
+
+<!-- Live card (may or may not load) -->
+<img 
+  src="https://github-contributor-stats.vercel.app/api?username=livingmangal&limit=5"
+  alt=""
+/>
+
 </div>
+
 
 <br/>
 
