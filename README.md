@@ -2,7 +2,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=260&section=header&color=gradient&customColorList=6,11,20&text=Mangal%20Singh&fontSize=82&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20•%20Full%20Stack%20Developer%20•%20Open%20Source%20Contributor&descAlignY=62&descSize=18&animation=fadeIn)
 
 
-<!-- Typing SVG Animation -->
+<!-- Typing SVG  Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Deep+Learning+Engineer+%F0%9F%A4%96;PyTorch+%7C+TensorFlow+Developer+%F0%9F%94%A5;Flask+%7C+FastAPI+Enthusiast+%F0%9F%9A%80;Building+the+Future+with+AI+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
