@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="850px" height="272px" font-size="14.5px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key   {fill: #953800; font-weight: bold;}
+.value {fill: #0a3069;}
+.cc    {fill: #8c959f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="850px" height="272px" fill="#f6f8fa" rx="10" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="20" y="30" fill="#24292f">
+<tspan x="20" y="30" class="key">mangal@github</tspan> <tspan class="cc">---[ AI &amp; Engineering Activity Metrics ]-------------------------</tspan>
+<tspan x="20" y="60" class="cc">. </tspan><tspan class="key">Python</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value"> 92h 40m</tspan>    <tspan class="cc">|    </tspan><tspan class="key">Docker</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value"> 16h 30m</tspan>
+<tspan x="20" y="84" class="cc">. </tspan><tspan class="key">PyTorch</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value"> 64h 15m</tspan>    <tspan class="cc">|    </tspan><tspan class="key">JavaScript</tspan>:<tspan class="cc"> .... </tspan><tspan class="value"> 26h 15m</tspan>
+<tspan x="20" y="108" class="cc">. </tspan><tspan class="key">TypeScript</tspan>:<tspan class="cc"> .... </tspan><tspan class="value"> 48h 20m</tspan>    <tspan class="cc">|    </tspan><tspan class="key">ROS / Edge</tspan>:<tspan class="cc"> .... </tspan><tspan class="value"> 12h 40m</tspan>
+<tspan x="20" y="132" class="cc">. </tspan><tspan class="key">C++</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value"> 35h 10m</tspan>    <tspan class="cc">|    </tspan><tspan class="key">TensorFlow</tspan>:<tspan class="cc"> .... </tspan><tspan class="value"> 21h 05m</tspan>
+<tspan x="20" y="156" class="cc">. </tspan><tspan class="key">CUDA / C</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value"> 22h 30m</tspan>    <tspan class="cc">|    </tspan><tspan class="key">Linux / Bash</tspan>:<tspan class="cc"> .. </tspan><tspan class="value"> 11h 20m</tspan>
+<tspan x="20" y="180" class="cc">. </tspan><tspan class="key">FastAPI</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value"> 19h 45m</tspan>    <tspan class="cc">|    </tspan><tspan class="key">HTML / CSS</tspan>:<tspan class="cc"> .... </tspan><tspan class="value"> 15h 10m</tspan>
+<tspan x="20" y="204" class="cc">. </tspan><tspan class="key">OpenCV</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value"> 18h 12m</tspan>    <tspan class="cc">|    </tspan><tspan class="key">Markdown</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value"> 08h 45m</tspan>
+<tspan x="20" y="228" class="cc">. </tspan><tspan class="key">SQL</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value"> 14h 50m</tspan>    <tspan class="cc">|    </tspan><tspan class="key">Git / CI-CD</tspan>:<tspan class="cc"> ... </tspan><tspan class="value"> 07h 30m</tspan>
+
+</text>
+</svg>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="850px" height="526px" font-size="14.5px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key   {fill: #ffa657; font-weight: bold;}
+.value {fill: #a5d6ff;}
+.add   {fill: #3fb950; font-weight: bold;}
+.cc    {fill: #616e7f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="850px" height="526px" fill="#161b22" rx="12" stroke="#30363d" stroke-width="1.5"/>
+<text x="20" y="30" fill="#c9d1d9">
+<tspan x="20" y="30" class="key">mangal@github</tspan> <tspan class="cc">---[ Featured Engineering &amp; Research Projects ]-----------------------</tspan>
+<tspan x="20" y="60" class="cc">. </tspan><tspan class="add">📦 Synapse-OS</tspan> <tspan class="cc">[⚡ AI Orchestrator]</tspan>
+<tspan x="20" y="82" class="cc">.    </tspan><tspan class="value">Production-grade Multilingual Public Health AI Orchestrator &amp; Omnichannel Bot (WhatsApp/SMS).</tspan>
+<tspan x="20" y="102" class="cc">.    </tspan><tspan class="value">Features ABDM/ABHA EHR integration, SHA-256 Polygon blockchain verification, MONAI/YOLOv8</tspan>
+<tspan x="20" y="122" class="cc">.    </tspan><tspan class="value">clinical radiography, and WHO/IDSP real-time epidemic outbreak surveillance.</tspan>
+<tspan x="20" y="142" class="cc">.    </tspan><tspan class="key">💻 Production Grade  |  📝 48,250 LOC  |  🚀 TypeScript • PyTorch • FastAPI • Polygon</tspan>
+<tspan x="20" y="174" class="cc">. </tspan><tspan class="add">📦 Cosmic Recycler (debris_app)</tspan> <tspan class="cc">[🛰️ Space Research]</tspan>
+<tspan x="20" y="196" class="cc">.    </tspan><tspan class="value">Machine Learning-driven Space Debris Classification and In-Orbit Metallurgical Recycling</tspan>
+<tspan x="20" y="216" class="cc">.    </tspan><tspan class="value">Framework for Orbital Sustainability (MDPI Research). Features computer vision object</tspan>
+<tspan x="20" y="236" class="cc">.    </tspan><tspan class="value">detection, satellite TLE trajectory tracking, and automated material classification.</tspan>
+<tspan x="20" y="256" class="cc">.    </tspan><tspan class="key">💻 Research Paper  |  📝 18,500 LOC  |  🚀 Python • OpenCV • YOLO • TLE Tracking</tspan>
+<tspan x="20" y="288" class="cc">. </tspan><tspan class="add">📦 Edge-AI-Earthquake-Detection</tspan> <tspan class="cc">[📡 Edge Inference]</tspan>
+<tspan x="20" y="310" class="cc">.    </tspan><tspan class="value">Autonomous Edge AI prototype for earthquake early-warning using local sensor inference,</tspan>
+<tspan x="20" y="330" class="cc">.    </tspan><tspan class="value">peer verification mesh, and a high-throughput lightweight FastAPI pipeline. Optimized</tspan>
+<tspan x="20" y="350" class="cc">.    </tspan><tspan class="value">for minimal latency on embedded microcontrollers.</tspan>
+<tspan x="20" y="370" class="cc">.    </tspan><tspan class="key">💻 Edge IoT Prototype  |  📝 12,400 LOC  |  🚀 Python • FastAPI • Edge AI • PyTorch</tspan>
+<tspan x="20" y="402" class="cc">. </tspan><tspan class="add">📦 PostureAI-Hackathon</tspan> <tspan class="cc">[👁️ Computer Vision]</tspan>
+<tspan x="20" y="424" class="cc">.    </tspan><tspan class="value">Real-time AI posture detection system leveraging webcam telemetry to evaluate ergonomics,</tspan>
+<tspan x="20" y="444" class="cc">.    </tspan><tspan class="value">deliver posture feedback, and drive long-term physical health through gamification and</tspan>
+<tspan x="20" y="464" class="cc">.    </tspan><tspan class="value">behavioral correction routines.</tspan>
+<tspan x="20" y="484" class="cc">.    </tspan><tspan class="key">💻 Hackathon Build  |  📝 9,800 LOC  |  🚀 JavaScript • MediaPipe • React • Node.js</tspan>
+</text>
+</svg>

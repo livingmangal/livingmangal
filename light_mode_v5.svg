@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="1030px" height="540px" font-size="15px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key   {fill: #953800; font-weight: bold;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37; font-weight: bold;}
+.delColor {fill: #cf222e; font-weight: bold;}
+.cc    {fill: #8c959f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="1030px" height="540px" fill="#f6f8fa" rx="15" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="20" y="30" fill="#24292f">
+<tspan x="20" y="30">      .---.                         </tspan>
+<tspan x="20" y="50">    _WWWWWWWWWWWW@%*                </tspan>
+<tspan x="20" y="70">   *WWWWWWWWWWW@%*...               </tspan>
+<tspan x="20" y="90">   WWWWWW%%W#WWWW:#oo               </tspan>
+<tspan x="20" y="110">   WWWWWWWWWWW%. #W.*.              </tspan>
+<tspan x="20" y="130"> :*WWWW@WWW@@o    .:%+              </tspan>
+<tspan x="20" y="150">  :%W@@W:  [O]  . . .%+             </tspan>
+<tspan x="20" y="170">   &lt;@%W+            #W+.            </tspan>
+<tspan x="20" y="190">   &lt;% + .            @W+            </tspan>
+<tspan x="20" y="210">    \                +*W            </tspan>
+<tspan x="20" y="230">     #W                W*           </tspan>
+<tspan x="20" y="250">      W#    +    .  *W +o           </tspan>
+<tspan x="20" y="270">     .W@:   +       Wo..            </tspan>
+<tspan x="20" y="290">      @W  .  * . W#   #WW           </tspan>
+<tspan x="20" y="310">      WW. @ WW #WW.++o:.            </tspan>
+<tspan x="20" y="330">     #WWWWo. W  +.W  W.  WWW        </tspan>
+<tspan x="20" y="350">     %WWoW W   W  . ::*W**#W        </tspan>
+<tspan x="20" y="370">     oW#Wo WW  W@.. .  +o           </tspan>
+<tspan x="20" y="390">      W%oW .W* WW+   :              </tspan>
+<tspan x="20" y="410">       #:%+ #W  W                   </tspan>
+<tspan x="20" y="430">        W.W  W  **                  </tspan>
+<tspan x="20" y="450">        W.WW  :o                    </tspan>
+<tspan x="20" y="470">        W:  o   +                   </tspan>
+<tspan x="20" y="490">        %@ %W WWW                   </tspan>
+<tspan x="20" y="510">        .@.WW%*WW.                  </tspan>
+<tspan x="20" y="530">        #W%WW+**+...                </tspan>
+</text>
+<text x="390" y="30" fill="#24292f">
+<tspan x="390" y="30" class="key">mangal@deeplearning-core</tspan> <tspan class="cc">---------------------------------------</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Linux (Ubuntu 24.04), Windows 11</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Neural-Engine v2.4 (NVIDIA CUDA)</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Bhopal, India &#x1F1EE;&#x1F1F3;</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">University</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">VIT Bhopal University (CSE AI/ML)</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">AI/ML Engineer &amp; Systems Architect</tspan>
+<tspan x="390" y="160" class="cc">. </tspan><tspan class="key">Languages.Core</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Python, C++, TypeScript, SQL, Java</tspan>
+<tspan x="390" y="180" class="cc">. </tspan><tspan class="key">AI.Frameworks</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">PyTorch, TensorFlow, OpenCV, MONAI</tspan>
+<tspan x="390" y="200" class="cc">. </tspan><tspan class="key">Systems.Deploy</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">FastAPI, Docker, TensorRT, ONNX</tspan>
+<tspan x="390" y="220" class="cc">. </tspan><tspan class="key">Research.Focus</tspan>:<tspan class="cc"> . </tspan><tspan class="value">Computer Vision, Space Debris, Edge-AI</tspan>
+<tspan x="390" y="240" class="cc">. </tspan><tspan class="key">Bio</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Architecting AI tensor-to-edge &#x1F985;</tspan>
+<tspan x="390" y="270">- Contact </tspan><tspan class="cc">------------------------------------------------</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">livingmangalsingh.02@gmail.com</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">in/mangalsinghr</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">livingmangal</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Twitter/X</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">livingmangal</tspan>
+<tspan x="390" y="380">- GitHub Stats </tspan><tspan class="cc">-------------------------------------------</tspan>
+<tspan x="390" y="400" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value"> 19 {Flagship: 4}</tspan> <tspan class="cc">| </tspan><tspan class="key">Stars</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">  20+</tspan>
+<tspan x="390" y="420" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">500+</tspan> <tspan class="cc">| </tspan><tspan class="key">Followers</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">   12</tspan>
+<tspan x="390" y="440" class="cc">. </tspan><tspan class="key">Lines of Code</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">186,420</tspan> ( <tspan class="addColor">214,830</tspan><tspan class="addColor">++</tspan>, <tspan class="delColor">28,410</tspan><tspan class="delColor">--</tspan> )
+</text>
+</svg>

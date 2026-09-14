@@ -1,0 +1,32 @@
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 18 * * *" # Runs daily at 18:00 UTC
+  workflow_dispatch: # Manual trigger
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@0.8.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Match GitHub Themes and Add Container
+        run: |
+          python -c "import glob, re; [open(f, 'w', encoding='utf-8').write(re.sub(r'<rect x=\"0\" y=\"0\" width=\"1280\" height=\"850\" fill=\"#00000f\"></rect>', r'<rect x=\"0\" y=\"0\" width=\"1280\" height=\"850\" fill=\"#161b22\" rx=\"15\" stroke=\"#616e7f\" stroke-width=\"2\"></rect>', open(f, encoding='utf-8').read())) for f in glob.glob('profile-3d-contrib/*.svg')]"
+          python -c "import glob, re; [open(f, 'w', encoding='utf-8').write(re.sub(r'<rect x=\"0\" y=\"0\" width=\"1280\" height=\"850\" fill=\"#ffffff\"></rect>', r'<rect x=\"0\" y=\"0\" width=\"1280\" height=\"850\" fill=\"#f6f8fa\" rx=\"15\" stroke=\"#c2cfde\" stroke-width=\"2\"></rect>', open(f, encoding='utf-8').read())) for f in glob.glob('profile-3d-contrib/*.svg')]"
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add -A .
+          if git commit -m "chore(profile-3d): update 3D contribution graphs [skip ci]"; then
+            git push
+          fi

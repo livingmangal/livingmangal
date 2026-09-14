@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="850px" height="144px" font-size="15px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key   {fill: #953800; font-weight: bold;}
+.value {fill: #0a3069;}
+.cc    {fill: #8c959f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="850px" height="144px" fill="#f6f8fa" rx="10" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="20" y="30" fill="#24292f">
+<tspan x="20" y="30" class="key">mangal@github</tspan> <tspan class="cc">---[ System Philosophy &amp; Quote ]------------------------------</tspan>
+<tspan x="20" y="60" class="value">&quot;The ultimate goal of artificial intelligence is not to mimic human thought,</tspan>
+<tspan x="20" y="84" class="value">but to extend the horizon of human capability.&quot;</tspan>
+<tspan x="20" y="116" class="key">                                                               - AI Philosophy</tspan>
+
+</text>
+</svg>
