@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=gradient&customColorList=6,11,20,28&text=Mangal%20Singh&fontSize=78&fontColor=ffffff&fontAlignY=40&desc=AI%20%26%20Deep%20Learning%20Engineer%20•%20Systems%20Architect%20•%20Open%20Source%20Pioneer&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=gradient&customColorList=6,11,20,28&text=Mangal%20Singh&fontSize=78&fontColor=ffffff&fontAlignY=40&desc=AI%20%7C%20Deep%20Learning%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Open%20Source%20Pioneer&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Header Banner" />
 </div>
 
 <!-- Typing SVG Animation -->
@@ -534,7 +534,7 @@ I am always keen to collaborate on forward-thinking research initiatives and hig
 
 <!-- Animated Footer Wave Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28&height=180&section=footer&text=Thanks%20for%20Exploring!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let's%20collaborate%20on%20transformative%20AI%20systems%20⭐&descSize=16&descAlignY=85" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28&height=180&section=footer&text=Thanks%20for%20Exploring!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=65&desc=Let%27s%20collaborate%20on%20transformative%20AI%20systems%20%E2%AD%90&descSize=16&descAlignY=85" width="100%" alt="Footer Banner" />
 </div>
 
 <div align="center">
