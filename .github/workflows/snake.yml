@@ -27,19 +27,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=cyan&color_dots=#161b22,#0d4429,#006d32,#26a641,#39d353
-            github-snake.svg
-            github-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Commit updated snake animations to main
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add github-snake.svg github-snake-dark.svg
-          if git commit -m "chore(snake): update contribution snake animation [skip ci]"; then
-            git push origin main
-          fi
 
       - name: Deploy to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

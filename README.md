@@ -18,9 +18,9 @@
 <!-- Animated Contribution Snake (top placement for immediate visual impact) -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./github-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="./github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livingmangal/livingmangal/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livingmangal/livingmangal/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/livingmangal/livingmangal/output/github-snake.svg" width="100%">
   </picture>
 </div>
 
