@@ -1,3 +1,8 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                    MANGAL SINGH — GITHUB PROFILE README                  -->
+<!--            AI/ML Engineer | Systems Architect | Open Source Pioneer       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <!-- Animated Header Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=gradient&customColorList=6,11,20,28&text=Mangal%20Singh&fontSize=78&fontColor=ffffff&fontAlignY=40&desc=AI%20%7C%20Deep%20Learning%20Engineer%20%E2%80%A2%20Systems%20Architect%20%E2%80%A2%20Open%20Source%20Pioneer&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Header Banner" />
@@ -10,7 +15,19 @@
 
 <br/>
 
-<!-- Neofetch Terminal Profile Card (Dual Theme Dark/Light) -->
+<!-- Animated Contribution Snake (top placement for immediate visual impact) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livingmangal/livingmangal/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livingmangal/livingmangal/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                         NEOFETCH TERMINAL CARD                           -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
   <a href="https://github.com/livingmangal">
     <picture>
@@ -23,40 +40,14 @@
 <br/>
 
 <!-- Social & Connect Hub -->
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="16%">
-      <a href="https://www.linkedin.com/in/mangalsinghr/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" width="16%">
-      <a href="https://github.com/livingmangal" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      </a>
-    </td>
-    <td align="center" width="16%">
-      <a href="mailto:livingmangalsingh.02@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-      </a>
-    </td>
-    <td align="center" width="16%">
-      <a href="https://twitter.com/livingmangal" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-      </a>
-    </td>
-    <td align="center" width="16%">
-      <a href="https://huggingface.co" target="_blank">
-        <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-      </a>
-    </td>
-    <td align="center" width="16%">
-      <a href="https://kaggle.com" target="_blank">
-        <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://www.linkedin.com/in/mangalsinghr/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://github.com/livingmangal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
+  <a href="mailto:livingmangalsingh.02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
+  <a href="https://twitter.com/livingmangal" target="_blank"><img src="https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>&nbsp;
+  <a href="https://huggingface.co" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>&nbsp;
+  <a href="https://kaggle.com" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+</div>
 
 <br/>
 
@@ -64,6 +55,30 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                             ABOUT ME                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🦅 About Me
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./about_dark_v1.svg">
+    <img alt="About Me" src="./about_light_v1.svg" width="100%">
+  </picture>
+</div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                          SKILLS & STACKS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 💀 Skills &amp; Stacks Arsenal
 
@@ -349,6 +364,10 @@
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        FEATURED PROJECTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
 ## 📂 Featured Engineering &amp; Research Projects
 
 <div align="center">
@@ -364,8 +383,8 @@
     </td>
     <td width="820" valign="top">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./projects_dark_v1.svg?v=3">
-        <img alt="Featured Projects" src="./projects_light_v1.svg?v=3" width="100%">
+        <source media="(prefers-color-scheme: dark)" srcset="./projects_dark_v1.svg?v=4">
+        <img alt="Featured Projects" src="./projects_light_v1.svg?v=4" width="100%">
       </picture>
     </td>
   </tr>
@@ -377,10 +396,10 @@
 
 | 🚀 Project | 🏷️ Domain | 🛠️ Tech Stack | 🔗 Repository |
 | :--- | :--- | :--- | :--- |
-| **Synapse-OS** | Public Health AI Orchestrator | TypeScript • PyTorch • MONAI • YOLOv8 • Polygon | [View Project →](https://github.com/livingmangal/Synapse-OS) |
-| **Cosmic Recycler** | Space Debris ML & Recycling (MDPI) | Python • OpenCV • YOLO • TLE Trajectory | [View Project →](https://github.com/livingmangal/debris_app) |
-| **Edge-AI Earthquake** | Autonomous Seismic Warning Mesh | Python • FastAPI • Edge AI • PyTorch | [View Project →](https://github.com/livingmangal/Edge-AI-Earthquake-Detection-Project) |
-| **PostureAI** | Computer Vision Ergonomics | JavaScript • MediaPipe • React • Node.js | [View Project →](https://github.com/livingmangal/PostureAI-Hackathon) |
+| **Synapse-OS** | Public Health AI Orchestrator | TypeScript, PyTorch, MONAI, YOLOv8, Polygon | [View Project](https://github.com/livingmangal/Synapse-OS) |
+| **Cosmic Recycler** | Space Debris ML, Recycling (MDPI) | Python, OpenCV, YOLO, TLE Trajectory | [View Project](https://github.com/livingmangal/debris_app) |
+| **Edge-AI Earthquake** | Autonomous Seismic Warning Mesh | Python, FastAPI, Edge AI, PyTorch | [View Project](https://github.com/livingmangal/Edge-AI-Earthquake-Detection-Project) |
+| **PostureAI** | Computer Vision Ergonomics | JavaScript, MediaPipe, React, Node.js | [View Project](https://github.com/livingmangal/PostureAI-Hackathon) |
 
 </div>
 
@@ -391,34 +410,40 @@
 
 <br/>
 
-## 🧠 End-to-End AI &amp; Systems Architecture
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                       AI ARCHITECTURE DIAGRAM                            -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🧠 End-to-End AI Systems Architecture
 
 ```mermaid
 graph LR
-    subgraph Data["1. Data &amp; Telemetry Ingestion"]
-        D1[Raw TLE Orbit Data] --> D2[Feature Extraction &amp; Preprocessing]
-        D3[Clinical Radiography / DICOM] --> D2
-        D4[Seismic Accelerometer Stream] --> D2
+    subgraph Data["1. Data Ingestion"]
+        D1[Raw TLE Orbit Data] --> D2[Feature Extraction]
+        D3[Clinical Radiography] --> D2
+        D4[Seismic Sensors] --> D2
     end
 
-    subgraph Modeling["2. Deep Learning &amp; Neural Compute"]
+    subgraph Modeling["2. Neural Compute"]
         D2 --> M1[PyTorch CUDA Kernels]
-        M1 --> M2[YOLOv8 Object Detection]
-        M1 --> M3[MONAI Biomedical Segmentation]
-        M1 --> M4[Edge Recurrent Classifiers]
+        M1 --> M2[YOLOv8 Detection]
+        M1 --> M3[MONAI Segmentation]
+        M1 --> M4[Edge Classifiers]
     end
 
-    subgraph Optimization["3. Optimization &amp; Quantization"]
-        M2 & M3 & M4 --> O1[ONNX Graph Serialization]
-        O1 --> O2[TensorRT INT8 / FP16 Engine]
-        O2 --> O3[Latency &lt; 15ms Profiling]
+    subgraph Optimization["3. Quantization"]
+        M2 --> O1[ONNX Serialization]
+        M3 --> O1
+        M4 --> O1
+        O1 --> O2[TensorRT INT8/FP16]
+        O2 --> O3[Latency Profiling]
     end
 
-    subgraph Serving["4. Edge &amp; Cloud Deployment"]
-        O3 --> S1[FastAPI Asynchronous Microservices]
-        S1 --> S2[Docker Containerized Mesh]
-        S2 --> S3[WhatsApp/SMS Omnichannel Bot]
-        S2 --> S4[Autonomous Edge Microcontrollers]
+    subgraph Serving["4. Deployment"]
+        O3 --> S1[FastAPI Microservices]
+        S1 --> S2[Docker Mesh]
+        S2 --> S3[Omnichannel Bot]
+        S2 --> S4[Edge Controllers]
     end
 
     style Data fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#c9d1d9
@@ -434,23 +459,31 @@ graph LR
 
 <br/>
 
-## ⏱️ AI &amp; Engineering Activity Metrics
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        ACTIVITY METRICS                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## ⏱️ AI Engineering Activity Metrics
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./hackatime_dark_v1.svg?v=3">
-    <img alt="Activity Metrics" src="./hackatime_light_v1.svg?v=3" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./hackatime_dark_v1.svg?v=4">
+    <img alt="Activity Metrics" src="./hackatime_light_v1.svg?v=4" width="100%">
   </picture>
 </div>
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        3D CONTRIBUTION GRAPH                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 📈 3D Contribution Graph
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg?v=6">
-    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg?v=6" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg?v=7">
+    <img alt="3D Contribution Graph" src="./profile-3d-contrib/profile-green-animate.svg?v=7" width="100%">
   </picture>
 </div>
 
@@ -460,34 +493,55 @@ graph LR
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB TROPHIES                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=livingmangal&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        GITHUB LIVE ANALYTICS                             -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Live Analytics
 
 <div align="center">
 
+<!-- Row 1: Stats Card + Streak -->
 <table align="center" style="border: none;">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=livingmangal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+      <img src="https://github-readme-stats.vercel.app/api?username=livingmangal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingmangal&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+      <img src="https://nirzak-streak-stats.vercel.app/?user=livingmangal&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
+<!-- Row 2: Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=livingmangal&layout=donut-vertical&theme=tokyonight&hide_border=true&border_radius=10&langs_count=10" alt="Top Languages" width="380" />
 
 </div>
 
 <br/>
 
-## 🐍 Contribution Grid Snake
+<!-- Profile Summary Cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=livingmangal&theme=tokyonight" alt="Profile Details" width="100%" />
+</div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/livingmangal/livingmangal/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/livingmangal/livingmangal/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=livingmangal&theme=tokyonight" alt="Repos per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=livingmangal&theme=tokyonight" alt="Most Commit Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=livingmangal&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="32%" />
 </div>
 
 <br/>
@@ -497,7 +551,11 @@ graph LR
 
 <br/>
 
-## ✍️ Random Dev Quote
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        DEV QUOTE                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## ✍️ System Philosophy
 
 <div align="center">
   <picture>
@@ -508,18 +566,30 @@ graph LR
 
 <br/>
 
-## 🤝 Let's Collaborate &amp; Build
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        COLLABORATION                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🤝 Open for Collaboration
 
 <div align="center">
 
-I am always keen to collaborate on forward-thinking research initiatives and high-performance engineering projects:
-- 🧠 **Deep Learning Architectures &amp; Distributed Training**
-- 👁️ **Computer Vision, Segmentation &amp; Visual Telemetry**
-- 🛰️ **Space Tech, Orbital Tracking &amp; Scientific ML**
-- ⚡ **Edge AI, TensorRT Ingestion &amp; Low-Latency Inference**
-- 🌐 **Scalable Full-Stack Systems &amp; Healthcare AI Engines**
-
-**Open for open-source contributions, research collaborations, and engineering discussions.**
+```
+ ╔══════════════════════════════════════════════════════════════════════╗
+ ║                                                                    ║
+ ║   I'm actively seeking collaborators for:                          ║
+ ║                                                                    ║
+ ║   🧠  Deep Learning Architectures & Distributed Training           ║
+ ║   👁️  Computer Vision, Medical Imaging & Visual Telemetry          ║
+ ║   🛰️  Space Tech, Orbital Mechanics & Scientific ML               ║
+ ║   ⚡  Edge AI, TensorRT & Low-Latency Inference Engines            ║
+ ║   🌐  Production Full-Stack Systems & Healthcare AI Platforms      ║
+ ║   🔬  Research Papers, MDPI Submissions & Academic Collaboration   ║
+ ║                                                                    ║
+ ║   → Let's build something that matters.                            ║
+ ║                                                                    ║
+ ╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
@@ -527,7 +597,9 @@ I am always keen to collaborate on forward-thinking research initiatives and hig
 
 <!-- Profile Views Counter -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=livingmangal&label=Terminal%20Visits&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=livingmangal&label=Terminal%20Visits&color=58a6ff&style=for-the-badge" alt="Profile Views"/>&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/livingmangal?label=Followers&style=for-the-badge&color=3fb950&logo=github" alt="Followers" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/stars/livingmangal?label=Stars&style=for-the-badge&color=ffa657&logo=github" alt="Stars" />
 </div>
 
 <br/>
@@ -540,3 +612,7 @@ I am always keen to collaborate on forward-thinking research initiatives and hig
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Driven+by+Curiosity+%7C+Powered+by+PyTorch+%F0%9F%94%A5;If+you+find+my+work+impactful%2C+leave+a+%E2%AD%90;Happy+Engineering!+%F0%9F%9A%80" alt="Footer Typing SVG" />
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                        END OF README                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->

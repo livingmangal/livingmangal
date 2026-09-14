@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="850px" height="522px" font-size="14.5px">
+<style>
+@font-face {
+src: local('Consolas'), local('Consolas Bold');
+font-family: 'ConsolasFallback';
+font-display: swap;
+-webkit-size-adjust: 109%;
+size-adjust: 109%;
+}
+.key   {fill: #953800; font-weight: bold;}
+.value {fill: #0a3069;}
+.cc    {fill: #8c959f;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="850px" height="522px" fill="#f6f8fa" rx="10" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="20" y="30" fill="#24292f">
+<tspan x="20" y="30" class="key">mangal@github</tspan> <tspan class="cc">---[ About Me ]-----------------------------------------------</tspan>
+<tspan x="20" y="60" class="value">AI/ML Engineer passionate about building systems that bridge the gap between</tspan>
+<tspan x="20" y="82" class="value">deep learning research and production-grade deployment. I work at the intersection</tspan>
+<tspan x="20" y="104" class="value">of neural architecture design, edge inference optimization, and scalable full-stack</tspan>
+<tspan x="20" y="126" class="value">engineering — from training PyTorch models on CUDA clusters to quantizing them with</tspan>
+<tspan x="20" y="148" class="value">TensorRT for sub-15ms latency on embedded microcontrollers.</tspan>
+<tspan x="20" y="180" class="value">My research spans computer vision for orbital debris tracking (MDPI published),</tspan>
+<tspan x="20" y="202" class="value">biomedical image segmentation with MONAI, and autonomous seismic early-warning</tspan>
+<tspan x="20" y="224" class="value">systems using peer-verified edge mesh networks. I believe in engineering that</tspan>
+<tspan x="20" y="246" class="value">solves real-world problems at scale — not just impressive demos.</tspan>
+<tspan x="20" y="278" class="key">Technical Focus:</tspan>
+<tspan x="20" y="300" class="cc">. </tspan><tspan class="key"> - Deep Learning Architectures (CNNs, Transformers, Diffusion)</tspan>
+<tspan x="20" y="322" class="cc">. </tspan><tspan class="key"> - Edge AI, TensorRT / ONNX Quantization, Embedded Inference</tspan>
+<tspan x="20" y="344" class="cc">. </tspan><tspan class="key"> - Computer Vision, Medical Imaging (MONAI, YOLOv8)</tspan>
+<tspan x="20" y="366" class="cc">. </tspan><tspan class="key"> - Distributed Systems, Microservices, Event-Driven Pipelines</tspan>
+<tspan x="20" y="388" class="cc">. </tspan><tspan class="key"> - Full-Stack Engineering (React, FastAPI, Next.js, Docker)</tspan>
+<tspan x="20" y="420" class="value">Currently diving deeper into MLOps, distributed training, and</tspan>
+<tspan x="20" y="442" class="value">advanced reinforcement learning for autonomous decision systems.</tspan>
+<tspan x="20" y="470" class="value">I enjoy hackathons, open-source, and experimental projects that</tspan>
+<tspan x="20" y="492" class="value">push me beyond comfort zones.</tspan>
+
+</text>
+</svg>
